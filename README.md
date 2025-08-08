@@ -42,7 +42,7 @@ uvicorn api.server:app --reload # server development starting command
 docker-compose up # 🐳 Run with Docker (backend + frontend)
 ````
 
-🧠 Tech Stack
+## 🧠 Tech Stack
 * pytorch lightning
 * tensorboard
 * torchvision
